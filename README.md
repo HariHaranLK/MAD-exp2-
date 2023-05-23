@@ -146,15 +146,16 @@ Registeration Number :212221040051
 
 
 ## OUTPUT
-   ![xml](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/87f3a213-a6ca-4f4e-ab4f-50fb865588ac) <br>
-   ![main](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/88157ada-0f43-4851-8377-833b8e4074a6) <br>
-   ![crt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/5a3239ed-ecfe-47bc-86e4-eecf45ea03ad) <br>
-   ![strt](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8757021d-ab85-4fe2-8cf6-9aeff41d7e52) <br>
-   ![resum](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/69ccd14f-999b-4879-8436-8c6c05074048) <br>
-   ![pas](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/55d07c84-8ebb-4bf4-ba22-fc649e8e14df) <br>
-   ![stp](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/8989f4ba-f9d7-4003-ab59-53c44342f978) <br>
-   ![res](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/1ac2fe13-042c-4824-bac1-9c0ff6088593) <br>
-   ![des](https://github.com/HariHaranLK/Mobile-Application-Development/assets/132996089/b7fddcc8-e2ef-4c22-bcca-d92572cf143b) <br>
+   ![xml](https://github.com/HariHaranLK/exp2/assets/132996089/a9d93852-9167-4979-83bd-113e30a3de00) <br>
+   ![xml](https://github.com/HariHaranLK/exp2/assets/132996089/0a2161d3-b710-4d9f-b68b-a6c6da46c6d4) <br>
+   ![1](https://github.com/HariHaranLK/exp2/assets/132996089/b8b0f459-6f99-4f93-8eb6-7bb3bedea355) <br>
+   ![2](https://github.com/HariHaranLK/exp2/assets/132996089/d1c087eb-2ecd-4232-be79-060657466d7e) <br>
+   ![3](https://github.com/HariHaranLK/exp2/assets/132996089/f7cbe2f7-2997-4fe1-8584-8d205737c6d9) <br>
+   ![4](https://github.com/HariHaranLK/exp2/assets/132996089/f674f5b4-273d-44ba-aff0-dd5a79bf838c) <br>
+   ![5](https://github.com/HariHaranLK/exp2/assets/132996089/1f7b7c03-4498-4c5c-81d7-1a81ea59c420) <br>
+
+
+
 
 ## RESULT
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
