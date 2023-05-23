@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Program to print the text “Hello World”.
+Program to print the text “GUIcomponent”.
 Developed by: Hari Haran L K
 Registeration Number :212221040051
 */
